@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">House Of Electonics Admin</string>
+    <string name="click_for_poster_uploading">Click for poster uploading</string>
+    <string name="sub_folder">Sub Folder:</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_description">Enter Description</string>
+    <string name="enter_price">Enter Price</string>
+    <string name="enter_type">Enter Size/Type/Brand/Watts</string>
+    <string name="enter_value">Enter Value</string>
+    <string name="Upload">Upload Data</string>
+</resources>

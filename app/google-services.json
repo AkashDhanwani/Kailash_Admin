@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "440865156417",
+    "firebase_url": "https://houseofelectronics-bf06a.firebaseio.com",
+    "project_id": "houseofelectronics-bf06a",
+    "storage_bucket": "houseofelectronics-bf06a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440865156417:android:afd047c8f1693a44",
+        "android_client_info": {
+          "package_name": "com.akash.deletedata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440865156417-atfapjecuckrh8dr5043ud8hp0vpisv4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akash.deletedata",
+            "certificate_hash": "103db2e5e4860e43355d4595aa7f9110dd1bf1a9"
+          }
+        },
+        {
+          "client_id": "440865156417-u55aao51jalagrcqk1i0q71midtrk0em.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU5exCO7YAvKkxzw--Pltr6WWTqy-X650"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440865156417-u55aao51jalagrcqk1i0q71midtrk0em.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440865156417:android:dd3ee1dbe95dff82",
+        "android_client_info": {
+          "package_name": "com.akash.houseofelectonicsadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440865156417-jq8dc9vtq3nu98m7l9s1s8o73rf3hdbn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akash.houseofelectonicsadmin",
+            "certificate_hash": "c232af93d8113d47508c7b010f651b884aa130f7"
+          }
+        },
+        {
+          "client_id": "440865156417-u55aao51jalagrcqk1i0q71midtrk0em.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU5exCO7YAvKkxzw--Pltr6WWTqy-X650"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440865156417-u55aao51jalagrcqk1i0q71midtrk0em.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440865156417:android:80effb3522046f96",
+        "android_client_info": {
+          "package_name": "com.akash.houseofelectronics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440865156417-mad4qapchdacg836n3rtvvnttroqcpln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akash.houseofelectronics",
+            "certificate_hash": "103db2e5e4860e43355d4595aa7f9110dd1bf1a9"
+          }
+        },
+        {
+          "client_id": "440865156417-u55aao51jalagrcqk1i0q71midtrk0em.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU5exCO7YAvKkxzw--Pltr6WWTqy-X650"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440865156417-u55aao51jalagrcqk1i0q71midtrk0em.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440865156417:android:9dc8fa8d6320900e",
+        "android_client_info": {
+          "package_name": "com.akash.uploaddata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440865156417-vvgktn321uugko3vl7pqk1h8m5i3kjak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akash.uploaddata",
+            "certificate_hash": "103db2e5e4860e43355d4595aa7f9110dd1bf1a9"
+          }
+        },
+        {
+          "client_id": "440865156417-u55aao51jalagrcqk1i0q71midtrk0em.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU5exCO7YAvKkxzw--Pltr6WWTqy-X650"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440865156417-u55aao51jalagrcqk1i0q71midtrk0em.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
